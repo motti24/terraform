@@ -5,7 +5,7 @@
 ### aws-vault is using the aws config file and not the credentials file
 ### The source profile is set in the ~/.aws/config file
 ### in your config file you need to set the following:
-### [profile niio-example]
+### [profile example]
 ### region = us-east-1
 ### mfa_serial = arn:aws:iam::123456789012:mfa/user
 ### role_arn = arn:aws:iam::123456789012:role/example
